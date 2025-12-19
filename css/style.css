@@ -49,3 +49,10 @@ form input {
     }
 
 }
+
+/* estilização de tarefas concluídas */
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
